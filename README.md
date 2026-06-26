@@ -26,5 +26,5 @@ This project is a bibliometric study analyzing how Artificial Intelligence and a
 4. Run notebooks in order (01 to 05)
 
 ## Author
-Name: Anivtha Reddy 
-NIT Tiruchirappalli 
+Name: Anivtha Reddy , 
+NIT Tiruchirappalli Intern
